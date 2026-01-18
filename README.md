@@ -1,7 +1,5 @@
 # Bondi
 
-## [Demo](https://mahmoud-abuyoussef.github.io/Bondi/)
-
 ## Tech Stack
 
 - ### Languages
